@@ -1,0 +1,27 @@
+.containerfluid{
+    background-color: rgb(44, 62, 80);
+    padding: 20px;
+}
+
+  .location, .platforms, .freelancing {
+    margin-bottom: 20px;
+  }
+  
+  .list {
+    margin-right: 10px;
+    list-style-type: none;
+  }
+  
+  .icon {
+    color: #fff;
+  }
+  
+  .copyright {
+    padding: 20px;
+   color: #fff;
+   font-size: 16px;
+   background-color: #1A252F;
+   ;
+    
+  }
+  

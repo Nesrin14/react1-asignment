@@ -1,0 +1,14 @@
+.about{
+    background-color: rgb(26, 188, 156);
+}
+.container{
+    margin: 0;
+}
+
+.about .starcontainer {
+  display: inline-block;
+  width: 50px;
+  height: 1px;
+  background-color: #ccc;
+  margin: 0 10px; 
+}
